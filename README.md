@@ -5,7 +5,7 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-LATITUDE = 52.2297   # Warszawa
+LATITUDE = 52.2297  
 LONGITUDE = 21.0122
 CACHE_FILE = "wyniki_pogody.json"
 
